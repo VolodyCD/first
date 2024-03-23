@@ -17,7 +17,7 @@ class MainController extends Controller
 
     public function review(){
         $reviews = new Contact();
-        return view('review', ['reviews' =>$reviews->all()]);  // ассициативный массив
+        return view('review', ['reviews' =>$reviews->all()]);  // ассициативный array:______
         // об:ект ключ значение
     }
 
