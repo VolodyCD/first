@@ -7,7 +7,8 @@
                 <h4 class="my-0 fw-normal">Enterprise</h4>
             </div>
             <div class="card-body">
-                                                                                      //hello 23/03/24
+                                                                                      //hello
+
                 <ul class="list-unstyled mt-3 mb-4">
                     <li>30 users included</li>
                     <li>15 GB of storage</li>
